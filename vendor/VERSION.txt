@@ -1,0 +1,3 @@
+Apache ECharts 6.1.0
+Source: https://registry.npmjs.org/echarts/6.1.0
+SHA512 verified against package registry metadata.
